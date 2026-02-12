@@ -28,7 +28,6 @@ models/
 *.pt
 
 # Dataset
-data/
 organized/
 *.zip
 *.tar
